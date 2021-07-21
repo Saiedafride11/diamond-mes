@@ -69,6 +69,7 @@
 @media(max-width:467px){
     .unslider-arrow.prev, .unslider-arrow.next {
         bottom: 160px !important;
+        top: 380px !important;
     }
     .about-text-slide .pl-3, .about-text-slide .px-3 {
         padding-left: 0px!important;
@@ -83,6 +84,7 @@
 @media(max-width:445px){
     .unslider-arrow.prev, .unslider-arrow.next {
         bottom: 200px !important;
+        top: 400px !important;
     }
     .unslider-arrow.prev {
         left: 83%;
@@ -119,8 +121,9 @@
     #sticky_navbar {
         margin-top: 0px;
     }
-    .unslider-arrow.prev, .unslider-arrow.next{
-        bottom: 190px !important;
+    .unslider-arrow.prev, .unslider-arrow.next {
+        bottom: 200px !important;
+        top: 440px !important;
     }
     .about-button .btn-1, .about-button .btn-2, .about-button .btn-3 {
         padding: 10px;
@@ -161,6 +164,9 @@
     }
     .unslider-arrow.prev {
         left: 80%;
+    }
+    .unslider-arrow.prev, .unslider-arrow.next {
+        top: 500px !important;
     }
 }
 @media(max-width:281px){
