@@ -149,7 +149,7 @@ img{
 
 .header-section{
     width: 100%;
-    padding: 35px 0px;
+    padding: 20px 0px 35px;
     background-color: #4e94f0;
 }
 
@@ -316,13 +316,13 @@ img{
 	z-index: 9;
 }
 .unslider-arrow.prev {
-    left: 86%;
-    bottom: 135px;
+    left: 84%;
+    bottom: 120px;
     color:#4e94f0;
 }
 .unslider-arrow.next {
 	right: 8%;
-    bottom: 135px;
+    bottom: 120px;
     color:#4e94f0;
 }
 
