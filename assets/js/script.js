@@ -3,8 +3,7 @@ $(document).ready(function(){
     // Start typed js
     var typed = new Typed('.typed-js-text', {
         strings: [
-            "Beautifull Mes",
-            "Computer Lab",
+            "Beautifull Mess",
             "Reading Environments",
             "Alone Environments",
             "Clean House",
